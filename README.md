@@ -42,11 +42,24 @@ Medical reports are paper or photos scattered across phones and folders. In an e
    npm install
    npm run dev
    ```
-6. Open http://localhost:5173
+6. Open `http://localhost:5173` in your browser (works on your own computer once both servers are running)
 
 ## Screenshots
 
-(Add 2-3 screenshots here: dashboard, trend chart, emergency page)
+### Login
+![Login](screenshots/login.png)
+
+### Add a family member
+![Add member](screenshots/addmember.png)
+
+### Medical reports with OCR
+![Reports](screenshots/reports.png)
+
+### Health trends
+![Trends](screenshots/trends.png)
+
+### Emergency QR card
+![Emergency](screenshots/emergency.png)
 
 ## Notes
 
